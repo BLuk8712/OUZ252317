@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OUZ252317.dir/main.c.o -o OUZ252317 
